@@ -1,0 +1,30 @@
+h1 {
+  color: red;
+  font-family: sans-serif;
+}
+
+figure {
+  width: 300px;
+  height: 200px;
+  border: 6px solid blue;
+  padding: 20px;  
+}
+
+figure img {
+  width: 100%;
+  height: auto;
+}
+
+p img {
+  float: left;
+  width: 25%;
+  height: auto;
+  margin-right: 35px;
+  margin-bottom: 20 px;
+  border: 6px solid silver;
+}
+
+p {
+  color: green;
+  font-family: sans-serif;
+}
