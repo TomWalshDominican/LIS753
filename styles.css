@@ -8,8 +8,8 @@ article {
 }
 
 figure {
-  width: 300px;
-  height: 200px;
+  width: 150px;
+  height: 100px;
   border: 6px solid blue;
   padding: 20px;  
 }
@@ -21,8 +21,8 @@ figure img {
 
 p img {
   float: left;
-  width: 200px;
-  height: 100px;
+  width: 50%;
+  height: auto;
   margin-right: 20px;
   margin-bottom: 15px;
   border: 6px solid silver;
