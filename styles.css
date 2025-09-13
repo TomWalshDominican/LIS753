@@ -4,7 +4,7 @@ h1 {
 }
 
 article {
-  width: 380px;
+  max-width: 100%;
 }
 
 figure {
@@ -21,8 +21,8 @@ figure img {
 
 p img {
   float: left;
-  width: 30%;
-  height: auto;
+  width: 150px;
+  height: 75px;
   margin-right: 20px;
   margin-bottom: 20px;
   border: 6px solid silver;
