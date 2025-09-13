@@ -3,6 +3,10 @@ h1 {
   font-family: sans-serif;
 }
 
+article {
+  width: 600px;
+}
+
 figure {
   width: 300px;
   height: 200px;
@@ -17,10 +21,10 @@ figure img {
 
 p img {
   float: left;
-  width: 25%;
-  height: auto;
-  margin-right: 35px;
-  margin-bottom: 20 px;
+  width: 200px;
+  height: 100px;
+  margin-right: 20px;
+  margin-bottom: 15px;
   border: 6px solid silver;
 }
 
