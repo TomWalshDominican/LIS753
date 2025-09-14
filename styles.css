@@ -1,10 +1,10 @@
+article {
+  max-width: 90%;
+}
+
 h1 {
   color: red;
   font-family: sans-serif;
-}
-
-article {
-  max-width: 90%;
 }
 
 figure {
@@ -19,6 +19,11 @@ figure img {
   height: auto;
 }
 
+p {
+  color: green;
+  font-family: sans-serif;
+}
+
 p img {
   float: left;
   max-width: 30%;
@@ -26,9 +31,4 @@ p img {
   margin-right: 20px;
   margin-bottom: 20px;
   border: 6px solid silver;
-}
-
-p {
-  color: green;
-  font-family: sans-serif;
 }
