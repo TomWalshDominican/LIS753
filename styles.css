@@ -14,14 +14,14 @@ figure {
   padding: 20px;  
 }
 
-figure img {
-  width: 100%;
-  height: auto;
-}
-
 p {
   color: green;
   font-family: sans-serif;
+}
+
+figure img {
+  width: 100%;
+  height: auto;
 }
 
 p img {
