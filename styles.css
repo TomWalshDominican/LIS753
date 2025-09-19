@@ -7,6 +7,11 @@ h1 {
   font-family: sans-serif;
 }
 
+a {
+  font-weight: bold;
+  color: navy;
+}
+
 figure {
   max-width: 40%;
   max-height: auto;
@@ -17,6 +22,11 @@ figure {
 p {
   color: green;
   font-family: sans-serif;
+}
+
+nav ul {
+  background-color: beige;
+  list-style: none;
 }
 
 figure img {
@@ -31,11 +41,6 @@ p img {
   margin-left: 20px;
   margin-bottom: 10px;
   border: 6px solid silver;
-}
-
-a {
-  font-weight: bold;
-  color: navy;
 }
 
 ul li a {
