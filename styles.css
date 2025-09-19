@@ -31,7 +31,7 @@ nav ul {
   gap: 30px; 
   list-style: none;
   padding-left: 0;
-  max-width: 60%;
+  max-width: 90%;
   border: 1px solid black;
 }
 
@@ -52,10 +52,10 @@ p img {
 nav ul li a {
   color: black;
   text-decoration:none;
-  padding: 5px;
+  padding: 8px;
 }
 
 nav ul li a:hover {
-  border-bottom: 3px solid black;
-  padding-bottom: 2px;
+  border-bottom: 5px solid black;
+  padding-bottom: 3px;
 }
