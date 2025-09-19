@@ -31,7 +31,8 @@ nav ul {
   gap: 30px; 
   list-style: none;
   padding-left: 0;
-  border: 1px solid black;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
 }
 
 figure img {
@@ -53,6 +54,9 @@ nav ul li a {
   text-decoration:none;
   padding: 8px;
   display: block;
+  text-transform: uppercase;
+  font-size: 14px;
+  letter-spacing: 1px;
 }
 
 nav ul li a:hover {
