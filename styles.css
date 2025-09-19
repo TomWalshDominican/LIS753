@@ -41,7 +41,6 @@ nav ul {
   justify-content: space-between;
   gap: 30px; 
   list-style: none;
-  padding-left: 0;
   border-top: 1px solid black;
   border-bottom: 1px solid black;
 }
@@ -56,6 +55,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
+  text-decoration: underline;
   border-bottom: 3px solid black;
   padding-bottom: 5px;
 }
