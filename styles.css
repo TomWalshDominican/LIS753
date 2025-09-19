@@ -32,3 +32,16 @@ p img {
   margin-bottom: 10px;
   border: 6px solid silver;
 }
+
+a {
+  font-weight: bold;
+  color: navy;
+}
+
+ul li a {
+  text-decoration:none;
+}
+
+ul li a:hover {
+  text-decoration: underline;
+}
