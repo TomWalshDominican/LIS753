@@ -1,15 +1,12 @@
-article {
-  max-width: 90%;
-}
-
 h1 {
   color: red;
   font-family: sans-serif;
 }
 
 a {
-  font-weight: bold;
   color: navy;
+  font-weight: bold;
+  font-family: sans-serif;
 }
 
 figure {
