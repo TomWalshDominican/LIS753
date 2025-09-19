@@ -49,16 +49,13 @@ p img {
   border: 6px solid silver;
 }
 
-nav ul li {
-  border-bottom: 1px solid black;
-  padding: 5px;
-}
-
 nav ul li a {
+  color: black;
   text-decoration:none;
+  padding: 5px;
 }
 
 nav ul li a:hover {
   bottom-border: 3px solid black;
-  padding-bbottom: 2px;
+  padding-bottom: 2px;
 }
