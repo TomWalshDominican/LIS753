@@ -27,6 +27,8 @@ p {
 nav ul {
   background-color: beige;
   list-style: none;
+  max-width: 90%;
+  border: 1px solid beige;
 }
 
 figure img {
@@ -43,10 +45,19 @@ p img {
   border: 6px solid silver;
 }
 
-ul li a {
+nav ul li {
+  border-bottom: 1px solid beige;
+  padding: 5px;
+}
+
+nav ul li:last-child {
+  border-bottom: none;
+}
+
+nav ul li a {
   text-decoration:none;
 }
 
-ul li a:hover {
+nav ul li a:hover {
   text-decoration: underline;
 }
