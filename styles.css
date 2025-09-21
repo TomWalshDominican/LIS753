@@ -41,7 +41,7 @@ nav ul {
   justify-content: space-between;
   list-style: none;
   padding-left: 0;
-  padding-right: 0;
+  padding-right: 6px;
   border-top: 1px solid black;
   border-bottom: 1px solid black;
 }
