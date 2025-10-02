@@ -70,11 +70,12 @@ p {
 nav ul {
   background-color: beige;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
+  gap: 30px; 
   list-style: none;
   padding-left: 0;
-  border-top: 1px solid black;
-  border-bottom: 1px solid black;
+  border-top: 1px solid navy;
+  border-bottom: 1px solid navy;
 }
 
 nav ul li a {
