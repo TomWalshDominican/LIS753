@@ -26,11 +26,19 @@ figure.main-image {
 }
 
 figure.section-image {
-  float: right;
   max-width: 40%;
   max-height: auto;
-  margin-left: 20px;
   margin-bottom: 10px;
+}
+
+figure.section-image.odd {
+  float: right;
+  margin-left: 20px;
+}
+
+figure-section-image.even {
+  float: left;
+  margin-left: 20px; 
 }
 
 p {
