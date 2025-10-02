@@ -60,7 +60,7 @@ figure.section-image {
 
 figcaption {
   color: navy;
-  font: sans-serif;
+  font-family: sans-serif;
 }
 
 p {
