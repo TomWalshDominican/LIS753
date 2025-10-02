@@ -34,32 +34,32 @@ a {
   font-family: sans-serif;
 }
 
-figure.main-image {
-  max-width: 40%;
-  max-height: auto;
+figure {
+  margin: 0;
+  border: 1px solid navy;
   background: beige;
-  border: 6px solid navy;
-  padding: 20px;  
+  padding: 12px;
+  padding-bottom: 24px;
+}
+
+figure img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 12px;
+}
+
+figure.main-image {
+  margin-bottom: 32px;
 }
 
 figure.section-image {
-  max-width: 30%;
-  max-height: auto;
-  background: beige;
-  border: 6px solid navy;
+  max-width: 320px;
   float: right;
-  margin-left: 20px;
-  margin-bottom: 10px;
-  padding: 20px; 
+  margin: -20px -62px 32px 20px;
 }
 
 p {
   font-family: sans-serif;
-}
-
-figure img {
-  width: 100%;
-  height: auto;
 }
 
 nav ul {
