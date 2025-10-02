@@ -17,11 +17,20 @@ a {
   font-family: sans-serif;
 }
 
-figure {
-  max-width: 30%;
+figure.main-image {
+  max-width: 40%;
   max-height: auto;
+  background: beige;
   border: 6px solid navy;
   padding: 20px;  
+}
+
+figure.section-image {
+  float: right;
+  max-width: 40%;
+  max-height: auto;
+  margin-left: 20px;
+  margin-bottom: 10px;
 }
 
 p {
