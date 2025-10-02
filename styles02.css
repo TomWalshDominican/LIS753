@@ -58,6 +58,11 @@ figure.section-image {
   margin: -20px -62px 32px 20px;
 }
 
+figcaption {
+  color: navy;
+  font: sans-serif;
+}
+
 p {
   font-family: sans-serif;
 }
