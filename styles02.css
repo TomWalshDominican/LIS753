@@ -20,12 +20,11 @@ a {
 figure {
   max-width: 40%;
   max-height: auto;
-  border: 6px solid blue;
+  border: 6px solid navy;
   padding: 20px;  
 }
 
 p {
-  color: green;
   font-family: sans-serif;
 }
 
