@@ -35,7 +35,6 @@ a {
 }
 
 figure {
-  margin: 0;
   border: 1px solid navy;
   background: beige;
   padding: 12px;
@@ -45,7 +44,6 @@ figure {
 figure img {
   max-width: 100%;
   height: auto;
-  margin-bottom: 12px;
 }
 
 figure.main-image {
