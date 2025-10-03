@@ -1,3 +1,15 @@
+.container {
+  width: 96%;
+  max-width: 1020px;
+  margin: 0 auto;
+}
+
+.small-container {
+  margin: 0 auto;
+  width: 92%;
+  max-width: 768px;
+}
+
 h1#site-title{
   color: navy;
   font-family: sans-serif;
