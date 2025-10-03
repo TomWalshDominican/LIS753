@@ -34,14 +34,14 @@ figure img {
 }
 
 figure.main-image {
-  max-width: 50%;
+  max-width: 40%;
   border: 16px solid navy;
   background: beige;
   margin-bottom: 32px;
 }
 
 figure.section-image {
-  max-width: 30%;
+  max-width: 25%;
   border: 4px solid navy;
   float: right;
   max-height: auto;
