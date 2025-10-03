@@ -106,4 +106,5 @@ nav ul li a:hover {
 footer#page-footer {
   text-align:center;
   margin-top: 60px;
+  border-top: 3px solid navy;
 }
