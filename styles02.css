@@ -54,7 +54,7 @@ figure img {
 }
 
 figure.main-image {
-  max-width: 40%;
+  max-width: 80%;
   border: 16px solid navy;
   background: beige;
   margin-bottom: 32px;
