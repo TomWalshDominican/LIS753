@@ -42,6 +42,14 @@ a {
   color: navy;
 }
 
+a#encyc {
+  text-decoration: none;
+}
+
+a#encyc:hover {
+  text-decoration: underline;
+}
+
 figure {
   padding: 20px;
 }
