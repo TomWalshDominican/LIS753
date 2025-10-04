@@ -68,7 +68,7 @@ figure.section-image {
 }
 
 figcaption {
-  color: navy;
+  font-weight: 500;
 }
 
 nav ul {
