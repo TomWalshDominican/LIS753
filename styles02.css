@@ -1,3 +1,7 @@
+body {
+  font-family: sans-serif;
+}
+
 .container {
   width: 96%;
   max-width: 1020px;
@@ -12,7 +16,6 @@
 
 h1#site-title{
   color: navy;
-  font-family: sans-serif;
   font-size: 72px;
   font-weight: 700;
   margin-bottom: 18px;
@@ -22,7 +25,6 @@ h1#site-title{
 
 h1#article-title{
   color: navy;
-  font-family: sans-serif;
   font-size: 40px;
   font-weight: 800;
   letter-spacing: 1px;
@@ -32,7 +34,6 @@ h1#article-title{
 
 h2 {
   color: navy;
-  font-family: sans-serif;
   font-weight: 800;
   margin-bottom: 0;
   margin-top: 48px;
@@ -41,7 +42,6 @@ h2 {
 a {
   color: navy;
   font-weight: bold;
-  font-family: sans-serif;
 }
 
 figure {
@@ -71,11 +71,6 @@ figure.section-image {
 
 figcaption {
   color: navy;
-  font-family: sans-serif;
-}
-
-p {
-  font-family: sans-serif;
 }
 
 nav ul {
