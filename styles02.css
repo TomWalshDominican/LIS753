@@ -42,6 +42,10 @@ a {
   color: navy;
 }
 
+a#encyc {
+  text-decoration: none;
+}
+
 figure {
   padding: 20px;
 }
