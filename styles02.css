@@ -21,6 +21,8 @@ h1#site-title{
   margin-bottom: 18px;
   margin-top: 0;
   text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
 h1#article-title{
