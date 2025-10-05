@@ -112,3 +112,9 @@ footer#page-footer {
   margin-top: 80px;
   border-top: 3px solid navy;
 }
+
+p footer {
+  text-transform: uppercase;
+  font-size: 14px;
+  letter-spacing: 1px;
+}
