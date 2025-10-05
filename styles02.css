@@ -1,6 +1,5 @@
 body {
   font-family: 'Lexend', sans-serif;
-  font-weight: 400;
 }
 
 .container {
@@ -43,6 +42,7 @@ h2 {
 
 a {
   color: navy;
+  font-weight: 400;
 }
 
 a#encyc {
@@ -82,6 +82,9 @@ figure.section-image {
 figcaption {
   font-weight: 400; 
 }
+p {
+  font-weight: 400;
+}
 
 nav ul {
   background-color: beige;
@@ -100,6 +103,7 @@ nav ul li a {
   display: block;
   text-transform: uppercase;
   font-size: 14px;
+  font-weight: 500;
   letter-spacing: 1px;
 }
 
@@ -117,5 +121,6 @@ footer#page-footer {
 footer p {
   text-transform: uppercase;
   font-size: 14px;
+  font-weight: 500;
   letter-spacing: 1px;
 }
