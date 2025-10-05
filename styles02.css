@@ -42,7 +42,7 @@ h2 {
 
 a {
   color: navy;
-  font-weight: 400;
+  font-weight: 500;
 }
 
 a#encyc {
@@ -82,8 +82,9 @@ figure.section-image {
 figcaption {
   font-weight: 400; 
 }
+
 p {
-  font-weight: 400;
+  font-weight: 500;
 }
 
 nav ul {
