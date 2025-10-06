@@ -18,8 +18,8 @@ h1#site-title{
   color: navy;
   font-size: 72px;
   font-weight: 500;
-  margin-bottom: 18px;
   margin-top: 0;
+  margin-bottom: 18px;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -29,15 +29,15 @@ h1#article-title{
   color: navy;
   font-size: 50px;
   font-weight: 600;
-  margin-bottom: 22px;
   margin-top: 48px;
+  margin-bottom: 22px;
 }
 
 h2 {
   color: navy;
   font-weight: 600;
-  margin-bottom: 0;
   margin-top: 48px;
+  margin-bottom: 0;
 }
 
 a {
@@ -66,7 +66,7 @@ figure.main-image {
   max-width: 80%;
   max-height: auto;
   border: 16px solid navy;
-  background: beige;
+  background-color: beige;
   margin-bottom: 32px;
 }
 
@@ -88,40 +88,40 @@ p {
 }
 
 nav ul {
+  padding-left: 0;
+  border-top: 1px solid navy;
+  border-bottom: 1px solid navy;
   background-color: beige;
   display: flex;
   justify-content: center;
   gap: 30px; 
   list-style: none;
-  padding-left: 0;
-  border-top: 1px solid navy;
-  border-bottom: 1px solid navy;
 }
 
 nav ul li a {
-  text-decoration: none;
+  font-size: 14px;
+  font-weight: 600;
   padding: 8px;
   display: block;
   text-transform: uppercase;
-  font-size: 14px;
-  font-weight: 600;
+  text-decoration: none;
   letter-spacing: 1px;
 }
 
 nav ul li a:hover {
-  border-bottom: 3px solid navy;
   padding-bottom: 5px;
+  border-bottom: 3px solid navy;
 }
 
 footer#page-footer {
-  text-align:center;
-  margin-top: 80px;
   border-top: 3px solid navy;
+  margin-top: 80px;
+  text-align:center;
 }
 
 footer p {
-  text-transform: uppercase;
   font-size: 14px;
   font-weight: 400;
+  text-transform: uppercase;
   letter-spacing: 1px;
 }
