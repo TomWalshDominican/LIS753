@@ -15,8 +15,13 @@ h3 {
 
 
 figure {
-  max-width: 20%;
+  max-width: 10%;
   max-height: auto;
   float:right;
   padding: 20px;  
+}
+
+figure img {
+  width: 100%;
+  height: auto;
 }
