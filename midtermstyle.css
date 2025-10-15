@@ -4,18 +4,18 @@ h1 {
 }
 
 h2 {
-  color: blue;
+  color: navy;
   font-family: sans-serif;
 }
 
 h3 {
-  color: blue;
+  color: darkslategray;
   font-family: sans-serif;
 }
 
 
 figure {
-  max-width: 20%;
+  max-width: 30%;
   max-height: auto;
   float:right;
   padding: 20px;  
@@ -27,7 +27,7 @@ figure img {
 }
 
 li.listsubhead {
-  color: navy;
+  font-weight: bold;
   margin-top: 15px;
   list-style-type: none;
 }
