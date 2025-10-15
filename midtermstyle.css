@@ -32,5 +32,6 @@ li.listsubhead {
 }
 
 li.listschedule {
-  margin-left: 10px;
+  margin-left: 15px;
+  list-style-type: none;
 }
