@@ -30,3 +30,7 @@ li.listsubhead {
   color: navy;
   list-style-type: none;
 }
+
+li.listschedule {
+  margin-left: 10px;
+}
