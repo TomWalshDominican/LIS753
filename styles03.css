@@ -1,0 +1,22 @@
+h1 {
+  color: blue;
+  font-family: sans-serif;
+}
+
+h2 {
+  color: blue;
+  font-family: sans-serif;
+}
+
+h3 {
+  color: blue;
+  font-family: sans-serif;
+}
+
+
+figure {
+  max-width: 20%;
+  max-height: auto;
+  float:right;
+  padding: 20px;  
+}
