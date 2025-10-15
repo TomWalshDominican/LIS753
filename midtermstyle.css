@@ -28,6 +28,7 @@ figure img {
 
 li.listsubhead {
   color: navy;
+  margin-top: 15px;
   list-style-type: none;
 }
 
