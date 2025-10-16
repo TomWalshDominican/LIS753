@@ -54,7 +54,8 @@ div#topcontent {
 div#schedule {
   display:flex;
   justify-content: space-between;
-  gap: 20px; 
+  gap: 20px;
+  border: 1px solid darkslategray; 
 }
 
 div#faq {
