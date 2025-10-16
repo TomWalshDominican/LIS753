@@ -46,8 +46,8 @@ p.dayofweek {
 }
 
 figure {
-  max-width: 33%;
-  max-height: auto;
+  width: 33%;
+  height: auto;
   float:right;
   padding: 20px;  
 }
