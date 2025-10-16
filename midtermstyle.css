@@ -14,6 +14,14 @@ h3 {
   font-family: sans-serif;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
 
 figure {
   max-width: 30%;
@@ -36,4 +44,10 @@ li.listsubhead {
 li.listschedule {
   margin-left: 15px;
   list-style-type: none;
+}
+
+footer#page-footer {
+  border-top: 30px solid darkgreen;
+  margin-top: 80px;
+  text-align:center;
 }
