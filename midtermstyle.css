@@ -1,3 +1,8 @@
+header {
+  border-bottom: 30px solid darkgreen;
+  margin-bottom: 80px;
+}
+
 h1 {
   color: blue;
   font-family: sans-serif;
