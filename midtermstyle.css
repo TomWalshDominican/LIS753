@@ -3,13 +3,13 @@ body {
 }
 
 header {
-  border-bottom: 20px solid darkgreen;
+  border-bottom: 20px solid darkslategray;
   margin-bottom: 80px;
   text-align: center;
 }
 
 h1 {
-  color: blue;
+  color: navy;
   font-family: sans-serif;
   text-transform: uppercase;
 }
@@ -46,7 +46,7 @@ figure img {
 
 div#topcontent {
   max-width: 50%;
-  border-bottom: 5px solid darkgreen;
+  border-bottom: 5px solid darkslategray;
   margin-bottom: 40px;
   margin-left: 10px;
   margin-right: 50px;
@@ -67,7 +67,7 @@ p#dayofweek {
 }
 
 footer#page-footer {
-  border-top: 20px solid darkgreen;
+  border-top: 20px solid darkslategray;
   margin-top: 80px;
   text-align:center;
 }
