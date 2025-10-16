@@ -45,13 +45,15 @@ figure img {
 }
 
 div#topcontent {
+  max-width: 50%;
   border-bottom: 5px solid darkgreen;
   margin-bottom: 20px;
   margin-left: 10px;
+  margin-right: 5px;
 }
 
 div#faq {
-  max-width: 85%;
+  max-width: 50%;
   margin-left: 10px;
 }
 
