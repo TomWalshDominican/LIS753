@@ -49,12 +49,13 @@ div#topcontent {
   border-bottom: 5px solid darkgreen;
   margin-bottom: 40px;
   margin-left: 10px;
-  margin-right: 5px;
+  margin-right: 50px;
 }
 
 div#faq {
   max-width: 50%;
   margin-left: 10px;
+  margin-right: 50px; 
 }
 
 p#dayofweek {
