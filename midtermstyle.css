@@ -1,6 +1,7 @@
 header {
-  border-bottom: 30px solid darkgreen;
+  border-bottom: 20px solid darkgreen;
   margin-bottom: 80px;
+  text-align: center;
 }
 
 h1 {
@@ -52,7 +53,7 @@ li.listschedule {
 }
 
 footer#page-footer {
-  border-top: 30px solid darkgreen;
+  border-top: 20px solid darkgreen;
   margin-top: 80px;
   text-align:center;
 }
