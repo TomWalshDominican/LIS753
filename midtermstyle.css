@@ -47,10 +47,16 @@ figure img {
 div#topcontent {
   border-bottom: 5px solid darkgreen;
   margin-bottom: 20px;
+  margin-left: 10px;
 }
 
 div#faq {
   max-width: 85%;
+  margin-left: 10px;
+}
+
+p#pleasenote {
+  font-weight: bold;
 }
 
 li.listsubhead {
@@ -60,7 +66,7 @@ li.listsubhead {
 }
 
 li.listschedule {
-  margin-left: 15px;
+  margin-left: 20px;
   list-style-type: none;
 }
 
