@@ -45,7 +45,6 @@ figure img {
 }
 
 div#topcontent {
-  max-width: 50%;
   margin-bottom: 40px;
   margin-left: 10px;
   margin-right: 50px;
@@ -60,7 +59,6 @@ div#schedule {
 }
 
 div#faq {
-  max-width: 50%;
   margin-left: 10px;
   margin-right: 50px; 
 }
