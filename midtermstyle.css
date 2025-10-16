@@ -3,6 +3,7 @@ body {
 }
 
 header {
+  border-top: 20px solid darkslategray;
   border-bottom: 20px solid darkslategray;
   margin-bottom: 80px;
   text-align: center;
