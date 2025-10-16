@@ -51,6 +51,12 @@ div#topcontent {
   margin-right: 50px;
 }
 
+div#schedule {
+  display:flex;
+  justify-content: space-between;
+  gap: 20px; 
+}
+
 div#faq {
   max-width: 50%;
   margin-left: 10px;
