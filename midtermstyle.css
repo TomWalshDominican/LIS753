@@ -32,6 +32,18 @@ a:hover {
   text-decoration: underline;
 }
 
+p#disclaimer {
+  color:gray;
+}
+
+p#pleasenote {
+  font-weight: bold;
+}
+
+p.dayofweek {
+  font-weight: bold;
+}
+
 figure {
   max-width: 33%;
   max-height: auto;
@@ -68,14 +80,6 @@ hr {
   margin-top: 30px;
   margin-bottom: 30px;
   background-color: darkslategray;
-}
-
-p#pleasenote {
-  font-weight: bold;
-}
-
-p.dayofweek {
-  font-weight: bold;
 }
 
 footer#page-footer {
