@@ -57,19 +57,12 @@ div#faq {
   margin-left: 10px;
 }
 
+p#dayofweek {
+  font-weight: bold;
+}
+
 p#pleasenote {
   font-weight: bold;
-}
-
-li.listsubhead {
-  font-weight: bold;
-  margin-top: 15px;
-  list-style-type: none;
-}
-
-li.listschedule {
-  margin-left: 20px;
-  list-style-type: none;
 }
 
 footer#page-footer {
