@@ -56,7 +56,7 @@ div#schedule {
   justify-content: space-between;
   gap: 20px;
   border: 1px solid darkslategray; 
-  padding: 5px;
+  padding: 20px;
 }
 
 div#faq {
