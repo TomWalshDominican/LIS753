@@ -1,3 +1,7 @@
+body {
+  font-family: sans-serif;
+}
+
 header {
   border-bottom: 20px solid darkgreen;
   margin-bottom: 80px;
