@@ -46,7 +46,6 @@ figure img {
 
 div#topcontent {
   max-width: 50%;
-  border-bottom: 5px solid darkslategray;
   margin-bottom: 40px;
   margin-left: 10px;
   margin-right: 50px;
@@ -56,6 +55,11 @@ div#faq {
   max-width: 50%;
   margin-left: 10px;
   margin-right: 50px; 
+}
+
+hr {
+  height: 10px;
+  color: darkslategray;
 }
 
 p#pleasenote {
