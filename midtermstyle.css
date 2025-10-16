@@ -71,6 +71,7 @@ div#schedule {
 }
 
 div#faq {
+  border-top: 20px solid darkslategray;
   margin-left: 10px;
   margin-right: 50px; 
 }
