@@ -32,7 +32,6 @@ a:hover {
   text-decoration: underline;
 }
 
-
 figure {
   max-width: 30%;
   max-height: auto;
@@ -43,6 +42,16 @@ figure {
 figure img {
   width: 100%;
   height: auto;
+}
+
+div#topcontent {
+  max-width: 85%;
+  border-bottom: 5px solid darkgreen;
+  margin-bottom: 20px;
+}
+
+div#faq {
+  max-width: 85%;
 }
 
 li.listsubhead {
