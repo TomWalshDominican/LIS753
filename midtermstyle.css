@@ -55,6 +55,7 @@ div#schedule {
   display:flex;
   justify-content: space-between;
   gap: 20px; 
+  font-size: 14px;
 }
 
 div#faq {
