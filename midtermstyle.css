@@ -49,6 +49,7 @@ div#schedule {
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
+  border: 5px solid darkslategray;
 }
 
 div#faq {
@@ -66,7 +67,7 @@ p.dayofweek {
 }
 
 p#disclaimer {
-  color:gray;
+  color:darkgray;
 }
 
 figure {
