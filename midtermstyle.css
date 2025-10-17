@@ -50,6 +50,7 @@ div#schedule {
   display: flex;
   justify-content: space-between;
   border: 5px solid darkslategray;
+  padding: 5px;
 }
 
 div#faq {
@@ -72,7 +73,7 @@ p#disclaimer {
 
 figure {
   width: 33%;
-  max-width: 500px;
+  max-width: 450px;
   height: auto;
   float:right;
   padding: 20px;  
