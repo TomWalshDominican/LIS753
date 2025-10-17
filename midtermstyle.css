@@ -53,6 +53,7 @@ div#faq {
 
 p#pleasenote {
   font-weight: bold;
+  margin-right: 50px; 
 }
 
 p.dayofweek {
