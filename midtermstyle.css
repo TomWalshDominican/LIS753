@@ -58,25 +58,9 @@ figure img {
   height: auto;
 }
 
-div#topcontent {
-  margin-bottom: 40px;
-  margin-left: 10px;
-  margin-right: 50px;
-}
-
-div#schedule {
-  display:flex;
-  justify-content: space-between;
-  gap: 20px;
-  border: 1px solid darkslategray; 
-  padding: 20px;
-}
-
 div#faq {
   border-top: 20px solid darkslategray;
   margin-top: 60px;
-  margin-left: 10px;
-  margin-right: 50px; 
 }
 
 footer#page-footer {
