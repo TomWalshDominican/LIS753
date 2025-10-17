@@ -53,7 +53,7 @@ div#faq {
 
 p#pleasenote {
   font-weight: bold;
-  border: 5px solid darkslategray 
+  border: 5px solid darkslategray; 
   max-width: 20%;
 }
 
