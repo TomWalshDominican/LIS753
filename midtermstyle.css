@@ -33,8 +33,22 @@ a:hover {
   text-decoration: underline;
 }
 
-p#disclaimer {
-  color:gray;
+div#topcontent {
+  width: 96%;
+  max-width: 1020px;
+  margin: 0 auto;
+}
+
+div#schedule {
+  width: 96%;
+  max-width: 1020px;
+  margin: 0 auto;
+}
+
+div#faq {
+  width: 96%;
+  max-width: 1020px;
+  margin: 0 auto;
 }
 
 p#pleasenote {
@@ -43,6 +57,10 @@ p#pleasenote {
 
 p.dayofweek {
   font-weight: bold;
+}
+
+p#disclaimer {
+  color:gray;
 }
 
 figure {
