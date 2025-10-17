@@ -5,6 +5,7 @@ body {
 header {
   border-top: 20px solid darkslategray;
   border-bottom: 20px solid darkslategray;
+  background-color: palegoldenrod;
   margin-bottom: 50px;
   text-align: center;
 }
@@ -93,6 +94,7 @@ hr {
 
 footer#page-footer {
   border-top: 20px solid darkslategray;
+  border-bottom: 20px solid darkslategray;
   margin-top: 80px;
   text-align:center;
 }
