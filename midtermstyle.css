@@ -52,9 +52,8 @@ div#faq {
 }
 
 p#pleasenote {
-  font-weight: bold;
-  border: 5px solid darkslategray; 
-  max-width: 33%;
+  font-weight: bold; 
+  max-width: 53%;
 }
 
 p.dayofweek {
