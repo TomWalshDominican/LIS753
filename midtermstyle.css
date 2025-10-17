@@ -33,14 +33,14 @@ a:hover {
   text-decoration: underline;
 }
 
-article p {
- max-width: 50%;
-}
-
 div#topcontent {
   width: 96%;
   max-width: 1020px;
   margin: 0 auto;
+}
+
+div#topcontent p {
+  max-width: 50%;
 }
 
 div#schedule {
@@ -53,6 +53,10 @@ div#faq {
   width: 96%;
   max-width: 1020px;
   margin: 0 auto;
+}
+
+div#faq p {
+  max-width: 50%;
 }
 
 p#pleasenote {
