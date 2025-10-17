@@ -52,6 +52,7 @@ div#schedule {
   justify-content: space-between;
   border: 5px solid darkslategray;
   padding: 15px;
+  background-color: palegoldenrod;
 }
 
 div#faq {
@@ -69,7 +70,7 @@ p.dayofweek {
 }
 
 p#disclaimer {
-  color:darkgray;
+  font-weight: bold;
 }
 
 figure {
@@ -96,5 +97,6 @@ footer#page-footer {
   border-top: 20px solid darkslategray;
   border-bottom: 20px solid darkslategray;
   margin-top: 80px;
-  text-align:center;
+  text-align: center;
+  background-color: palegoldenrod;
 }
