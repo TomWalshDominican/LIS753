@@ -103,6 +103,7 @@ hr {
 
 footer#page-footer {
   color: darkslateblue;
+  font-weight: 600;
   border-top: 20px solid darkslategray;
   border-bottom: 20px solid darkslategray;
   background-color: ivory;
