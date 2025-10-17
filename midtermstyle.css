@@ -6,28 +6,29 @@ body {
 header {
   border-top: 20px solid darkslategray;
   border-bottom: 20px solid darkslategray;
-  background-color: palegoldenrod;
+  background-color: ivory;
   margin-bottom: 50px;
   text-align: center;
 }
 
 h1 {
   color: navy;
-  font-family: sans-serif;
   font-weight: 500;
   text-transform: uppercase;
 }
 
 h2 {
   color: navy;
-  font-family: sans-serif;
   font-weight: 600;
 }
 
 h3 {
   color: darkslategray;
-  font-family: sans-serif;
   font-weight: 600;
+}
+
+h3#scheduleheader {
+  text-align: center;
 }
 
 a {
@@ -57,7 +58,7 @@ div#schedule {
   border: 5px solid darkslategray;
   padding: 15px;
   color: navy;
-  background-color: palegoldenrod;
+  background-color: ivory;
 }
 
 div#faq {
@@ -104,5 +105,5 @@ footer#page-footer {
   margin-top: 80px;
   text-align: center;
   color: navy;
-  background-color: palegoldenrod;
+  background-color: ivory;
 }
