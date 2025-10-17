@@ -52,6 +52,7 @@ div#schedule {
   justify-content: space-between;
   border: 5px solid darkslategray;
   padding: 15px;
+  color: navy;
   background-color: palegoldenrod;
 }
 
@@ -98,5 +99,6 @@ footer#page-footer {
   border-bottom: 20px solid darkslategray;
   margin-top: 80px;
   text-align: center;
+  color: navy;
   background-color: palegoldenrod;
 }
