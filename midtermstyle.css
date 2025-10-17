@@ -33,6 +33,10 @@ a:hover {
   text-decoration: underline;
 }
 
+article p {
+ max-width: 50%;
+}
+
 div#topcontent {
   width: 96%;
   max-width: 1020px;
@@ -53,7 +57,6 @@ div#faq {
 
 p#pleasenote {
   font-weight: bold; 
-  max-width: 53%;
 }
 
 p.dayofweek {
