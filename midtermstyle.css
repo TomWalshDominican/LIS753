@@ -47,13 +47,15 @@ div#schedule {
   width: 96%;
   max-width: 1020px;
   margin: 0 auto;
-  column-count: 4;
+  
 }
 
 div#faq {
   width: 96%;
   max-width: 1020px;
   margin: 0 auto;
+  display: flex;
+  justify-content: center;
 }
 
 div#faq p {
