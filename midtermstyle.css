@@ -76,8 +76,12 @@ figure img {
   height: auto;
 }
 
+hr {
+  background-color: darkslategray;
+  height: 20px; 
+}
+
 div#faq {
-  border-top: 20px solid darkslategray;
   margin-top: 60px;
 }
 
