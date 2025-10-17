@@ -1,6 +1,6 @@
 body {
-  font-family: 'Cabin', sans-serif;
   font-weight: 400;
+  font-family: 'Cabin', sans-serif;
 }
 
 header {
@@ -15,6 +15,7 @@ h1 {
   color: navy;
   font-weight: 500;
   text-transform: uppercase;
+  letter-spacing: 1px;
 }
 
 h2 {
@@ -50,15 +51,15 @@ div#topcontent p {
 }
 
 div#schedule {
+  color: navy;
   width: 96%;
   max-width: 1020px;
+  padding: 15px;
+  border: 5px solid darkslategray;
+  background-color: ivory;
   margin: 0 auto;
   display: flex;
   justify-content: space-between;
-  border: 5px solid darkslategray;
-  padding: 15px;
-  color: navy;
-  background-color: ivory;
 }
 
 div#faq {
@@ -83,8 +84,8 @@ figure {
   width: 33%;
   max-width: 450px;
   height: auto;
-  float:right;
-  padding: 20px;  
+  padding: 20px; 
+  float:right; 
 }
 
 figure img {
@@ -93,17 +94,17 @@ figure img {
 }
 
 hr {
-  background-color: darkslategray;
   height: 5px; 
+  background-color: darkslategray;
   margin-top: 60px;
   margin-bottom: 30px; 
 }
 
 footer#page-footer {
+  color: navy;
   border-top: 20px solid darkslategray;
   border-bottom: 20px solid darkslategray;
+  background-color: ivory;
   margin-top: 80px;
   text-align: center;
-  color: navy;
-  background-color: ivory;
 }
