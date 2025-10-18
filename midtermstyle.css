@@ -59,7 +59,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  padding-bottom: 3px;
+  padding-bottom: 1px;
   border-bottom: 3px solid darkslategray;
 }
 
