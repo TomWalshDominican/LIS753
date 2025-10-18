@@ -35,17 +35,10 @@ h3#scheduleheader {
 
 a {
   color: darkslategray;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
 }
 
 nav ul {
   padding-left: 0;
-  border-top: 1px solid darkslategray;
-  border-bottom: 1px solid darkslategray;
   background-color: ivory;
   display: flex;
   justify-content: center;
@@ -59,7 +52,6 @@ nav ul li a {
   padding: 8px;
   display: block;
   text-transform: uppercase;
-  text-decoration: none;
   letter-spacing: 1px;
 }
 
@@ -124,7 +116,7 @@ figure img {
 hr {
   height: 5px; 
   background-color: darkslategray;
-  margin-top: 60px;
+  margin-top: 80px;
   margin-bottom: 30px; 
 }
 
