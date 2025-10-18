@@ -69,6 +69,12 @@ div#topcontent p {
   max-width: 50%;
 }
 
+div#schedulesection {
+  width: 96%;
+  max-width: 1020px;
+  margin: 0 auto;
+}
+
 div#schedule {
   color: darkslateblue;
   width: 96%;
