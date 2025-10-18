@@ -39,8 +39,8 @@ a {
 
 nav ul {
   padding-left: 0;
-  border-top: 1px solid darkslategray;
-  border-bottom: 1px solid darkslategray;
+  border-top: 4px solid darkslategray;
+  border-bottom: 4px solid darkslategray;
   background-color: ivory;
   display: flex;
   justify-content: center;
