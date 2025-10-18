@@ -5,11 +5,11 @@ body {
 }
 
 header {
-  padding-top: 2px;
   padding-bottom: 0;
   border-top: 20px solid darkslategray;
   border-bottom: 20px solid darkslategray;
   background-color: ivory;
+  margin-top: 3px; 
   margin-bottom: 50px;
   text-align: center;
 }
