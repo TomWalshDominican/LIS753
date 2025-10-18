@@ -54,13 +54,7 @@ nav ul li a {
   padding: 16px;
   display: block;
   text-transform: uppercase;
-  text-decoration: none;
   letter-spacing: 1px;
-}
-
-nav ul li a:hover {
-  padding-bottom: 1px;
-  border-bottom: 3px solid darkslategray;
 }
 
 div#topcontent {
