@@ -54,6 +54,7 @@ nav ul li a {
   padding: 16px;
   display: block;
   text-transform: uppercase;
+  text-decoration: none;
   letter-spacing: 1px;
 }
 
