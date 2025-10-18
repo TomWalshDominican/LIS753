@@ -41,6 +41,32 @@ a:hover {
   text-decoration: underline;
 }
 
+nav ul {
+  padding-left: 0;
+  border-top: 1px solid darkslategray;
+  border-bottom: 1px solid darkslategray;
+  background-color: ivory;
+  display: flex;
+  justify-content: center;
+  gap: 30px; 
+  list-style: none;
+}
+
+nav ul li a {
+  font-size: 14px;
+  font-weight: 600;
+  padding: 8px;
+  display: block;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 1px;
+}
+
+nav ul li a:hover {
+  padding-bottom: 5px;
+  border-bottom: 3px solid darkslategray;
+}
+
 div#topcontent {
   width: 96%;
   max-width: 1020px;
