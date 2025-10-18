@@ -115,6 +115,14 @@ figure img {
   height: auto;
 }
 
+figcaption a {
+  text-decoration: none;
+}
+
+figcaption a {
+  text-decoration: underline;
+}
+
 hr {
   height: 5px; 
   background-color: darkslategray;
