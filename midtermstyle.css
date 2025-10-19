@@ -15,7 +15,7 @@ header {
 }
 
 h1 {
-  color: blue;
+  color: darkslateblue;
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 1px;
@@ -37,7 +37,7 @@ h3#scheduleheader {
 }
 
 a {
-  color: blue;
+  color: darkslateblue;
 }
 
 nav ul {
@@ -76,7 +76,7 @@ div#schedulesection {
 }
 
 div#schedule {
-  color: blue;
+  color: darkslateblue;
   width: 96%;
   max-width: 1020px;
   padding: 15px;
@@ -123,7 +123,7 @@ figcaption a {
 }
 
 figcaption a:hover {
-  color: blue;
+  color: darkslateblue;
   text-decoration: underline;
 }
 
@@ -135,7 +135,7 @@ hr {
 }
 
 footer#page-footer {
-  color: blue;
+  color: darkslateblue;
   font-weight: 600;
   border-top: 20px solid darkslategray;
   border-bottom: 20px solid darkslategray;
