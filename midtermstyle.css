@@ -118,13 +118,6 @@ figure img {
   height: auto;
 }
 
-hr {
-  height: 5px; 
-  background-color: darkslategray;
-  margin-top: 80px;
-  margin-bottom: 30px; 
-}
-
 footer#page-footer {
   color: darkslateblue;
   font-weight: 600;
