@@ -10,7 +10,7 @@ header {
   border-bottom: 20px solid darkslategray;
   background-color: ivory;
   margin-top: 8px; 
-  margin-bottom: 70px;
+  margin-bottom: 65px;
   text-align: center;
 }
 
@@ -131,6 +131,6 @@ footer#page-footer {
   border-top: 20px solid darkslategray;
   border-bottom: 20px solid darkslategray;
   background-color: ivory;
-  margin-top: 70px;
+  margin-top: 65px;
   text-align: center;
 }
