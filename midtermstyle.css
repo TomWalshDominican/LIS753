@@ -102,14 +102,6 @@ div#faq p {
   max-width: 50%;
 }
 
-p.dayofweek {
-  font-weight: 700;
-}
-
-p#disclaimer {
-  font-weight: 600;
-}
-
 figure {
   width: 38%;
   max-width: 450px;
@@ -121,6 +113,14 @@ figure {
 figure img {
   width: 100%;
   height: auto;
+}
+
+p.dayofweek {
+  font-weight: 700;
+}
+
+p#disclaimer {
+  font-weight: 600;
 }
 
 footer#page-footer {
