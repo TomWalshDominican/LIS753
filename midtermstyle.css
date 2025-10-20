@@ -5,7 +5,6 @@ body {
 }
 
 header {
-  padding-bottom: 0;
   border-top: 30px solid darkslategray;
   border-bottom: 30px solid darkslategray;
   background-color: ivory;
