@@ -47,7 +47,6 @@ a {
 nav ul {
   padding-left: 0;
   border-top: 4px solid darkslategray;
-  background-color: ivory;
   display: flex;
   justify-content: center;
   gap: 30px; 
