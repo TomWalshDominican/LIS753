@@ -6,8 +6,8 @@ body {
 
 header {
   padding-bottom: 0;
-  border-top: 20px solid darkslategray;
-  border-bottom: 20px solid darkslategray;
+  border-top: 30px solid darkslategray;
+  border-bottom: 30px solid darkslategray;
   background-color: ivory;
   margin-top: 8px; 
   margin-bottom: 75px;
@@ -126,8 +126,8 @@ figure img {
 footer#page-footer {
   color: darkslateblue;
   font-weight: 600;
-  border-top: 20px solid darkslategray;
-  border-bottom: 20px solid darkslategray;
+  border-top: 30px solid darkslategray;
+  border-bottom: 30px solid darkslategray;
   background-color: ivory;
   margin-top: 75px;
   text-align: center;
