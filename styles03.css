@@ -92,10 +92,15 @@ nav ul {
   border-top: 1px solid navy;
   border-bottom: 1px solid navy;
   background-color: beige;
+  list-style: none;
+}
+
+@media all and (min-width: 376px) {
+  nav ul{
   display: flex;
   justify-content: center;
   gap: 30px; 
-  list-style: none;
+  }
 }
 
 nav ul li a {
