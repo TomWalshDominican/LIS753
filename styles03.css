@@ -102,7 +102,7 @@ nav ul {
   text-align:center;
 }
 
-@media all and (min-width: 581px) {
+@media all and (min-width: 601px) {
   nav ul {
   display: flex;
   justify-content: center;
