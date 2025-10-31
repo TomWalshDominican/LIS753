@@ -95,8 +95,8 @@ nav ul {
   list-style: none;
 }
 
-@media all and (min-width: 376px) {
-  nav ul{
+@media all and (min-width: 391px) {
+  nav ul {
   display: flex;
   justify-content: center;
   gap: 30px; 
