@@ -57,11 +57,6 @@ figure {
   padding: 20px;
 }
 
-figure img {
-  width: 100%;
-  height: auto;
-}
-
 figure.main-image {
   max-width: 80%;
   max-height: auto;
