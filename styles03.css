@@ -49,11 +49,6 @@ figure {
   padding: 20px;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-}
-
 figure.main-image {
   max-width: 80%;
   height: auto;
@@ -74,6 +69,11 @@ figure.section-image {
   margin-top: -24px;
   margin-left: 30px;
   }
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 figcaption {
