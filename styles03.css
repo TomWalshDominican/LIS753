@@ -58,12 +58,12 @@ figure {
 }
 
 img {
-  width: 100%;
+  max-width: 100%;
   height: auto;
 }
 
 figure.main-image {
-  max-width: 80%;
+  max-width: 60%;
   height: auto;
   border: 16px solid navy;
   background-color: beige;
