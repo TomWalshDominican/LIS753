@@ -53,7 +53,7 @@ nav ul {
   border-bottom: 1px solid navy;
   background-color: beige;
   list-style: none;
-  text-align:center;
+  text-align: center;
 }
 
 @media all and (min-width: 601px) {
