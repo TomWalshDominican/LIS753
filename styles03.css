@@ -45,14 +45,6 @@ a {
   font-weight: 400;
 }
 
-a#encyc {
-  text-decoration: none;
-}
-
-a#encyc:hover {
-  text-decoration: underline;
-}
-
 figure {
   padding: 20px;
 }
