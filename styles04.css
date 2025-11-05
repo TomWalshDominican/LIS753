@@ -79,6 +79,7 @@ nav ul li a {
   border: 1px solid navy;
   border-radius: 24px;
   background-color: beige;
+  margin-top: 45px;
   opacity: 1;
   transition: opacity .4s ease;
 }
