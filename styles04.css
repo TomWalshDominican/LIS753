@@ -72,19 +72,20 @@ nav ul li a {
 }
 
 #message {
-  background: ivory;
-  border: 1px solid red;
-  padding: 22px;
-  border-radius: 24px;
-  opacity: 1;
-  color: red;
+  color: navy;
   font-size: 30px;
+  font-weight: 600;
+  padding: 22px;
+  border: 1px solid navy;
+  border-radius: 24px;
+  background-color: beige;
+  opacity: 1;
   transition: opacity .4s ease;
 }
 
 #message.dismissed {
-  opacity: 0;
   height: 0;
+  opacity: 0;
 }
 
 #message button {
