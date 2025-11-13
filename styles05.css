@@ -38,11 +38,12 @@ h1#article-title {
   margin-bottom: 22px;
 }
 
-@media all and (min-width: 430px) {
+@media all and (max-width: 430px) {
   h1#article-title {
   text-align: center;
   }
 }
+
 
 h2 {
   color: navy;
@@ -51,7 +52,7 @@ h2 {
   margin-bottom: 0;
 }
 
-@media all and (min-width: 430px) {
+@media all and (max-width: 430px) {
   h2 {
   margin-bottom: 12px;
   text-align: center;
