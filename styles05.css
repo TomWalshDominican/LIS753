@@ -49,12 +49,11 @@ h2 {
   color: navy;
   font-weight: 600;
   margin-top: 48px;
-  margin-bottom: 0;
+  margin-bottom: 12px;
 }
 
 @media all and (max-width: 431px) {
   h2 {
-  margin-bottom: 12px;
   text-align: center;
   }
 }
