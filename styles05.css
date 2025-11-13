@@ -127,7 +127,7 @@ figure.section-image {
 @media all and (min-width: 431px) {
   figure.section-image {
   float: right;
-  margin-top: -24px;
+  margin-top: -36px;
   margin-left: 30px;
   }
 }
