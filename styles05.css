@@ -45,7 +45,7 @@ h2 {
   margin-bottom: 0;
 }
 
-@media all and (max-width: 429px) {
+@media all and (max-width: 430px) {
   h2 {
   margin-bottom: 10px;
   text-align: center;
@@ -126,7 +126,7 @@ figure.section-image {
   }
 }
 
-@media all and (max-width: 429px) {
+@media all and (max-width: 430px) {
   figure.section-image {
   margin: auto;
   display: block;
