@@ -45,6 +45,13 @@ h2 {
   margin-bottom: 0;
 }
 
+@media all and (max-width: 429px) {
+  h2 {
+  margin-bottom: 10px;
+  text-align: center;
+  }
+}
+
 nav ul {
   padding-top: 15px;
   padding-bottom: 15px;
