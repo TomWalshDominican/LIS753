@@ -38,7 +38,7 @@ h1#article-title {
   margin-bottom: 22px;
 }
 
-@media all and (max-width: 431px) {
+@media all and (max-width: 461px) {
   h1#article-title {
   text-align: center;
   }
@@ -52,7 +52,7 @@ h2 {
   margin-bottom: 12px;
 }
 
-@media all and (max-width: 431px) {
+@media all and (max-width: 461px) {
   h2 {
   text-align: center;
   }
@@ -125,7 +125,7 @@ figure.section-image {
   margin: auto;
 }
 
-@media all and (min-width: 431px) {
+@media all and (min-width: 461px) {
   figure.section-image {
   float: right;
   margin-top: -36px;
