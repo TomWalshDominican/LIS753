@@ -132,7 +132,7 @@ figure.section-image {
   }
 }
 
-@media all and (max-width: 430px) {
+@media all and (max-width: 430.9px) {
   figure.section-image {
   margin: auto;
   display: block;
