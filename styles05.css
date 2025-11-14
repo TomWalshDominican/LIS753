@@ -122,6 +122,7 @@ figure.section-image {
   max-width: 35%;
   height: auto;
   border: 4px solid navy;
+  margin: auto;
 }
 
 @media all and (min-width: 431px) {
@@ -129,13 +130,6 @@ figure.section-image {
   float: right;
   margin-top: -36px;
   margin-left: 30px;
-  }
-}
-
-@media all and (max-width: 430.9px) {
-  figure.section-image {
-  margin: auto;
-  display: block;
   }
 }
 
