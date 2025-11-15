@@ -154,6 +154,12 @@ p {
   font-weight: 400;
 }
 
+@media all and (max-width: 461px) {
+  p {
+  hyphens: auto;
+  }
+}
+
 footer#page-footer {
   border-top: 3px solid navy;
   margin-top: 80px;
