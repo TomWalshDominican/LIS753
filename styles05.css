@@ -154,7 +154,7 @@ p {
   font-weight: 400;
 }
 
-@media all and (max-width: 461px) {
+@media all and (max-width: 601px) {
   p {
   hyphens: auto;
   }
