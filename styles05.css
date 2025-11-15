@@ -2,7 +2,7 @@ body {
   font-family: 'Lexend', sans-serif;
 }
 
-@media all and (max-width: 461px) {
+@media all and (max-width: 601px) {
   body {
   background-color: whitesmoke;
   }
