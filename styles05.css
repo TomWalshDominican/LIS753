@@ -2,6 +2,12 @@ body {
   font-family: 'Lexend', sans-serif;
 }
 
+@media all and (max-width: 461px) {
+  body {
+  background-color: whitesmoke;
+  }
+}
+
 .container {
   width: 96%;
   max-width: 1020px;
